@@ -129,7 +129,7 @@ Me chamo Wesley Marques, tenho 22 anos e sou natural do Rio Grande do Sul. Atual
 
 ### 📊 Estatísticas
 
-<p>
+<p stile="display:flex">
   <img 
     align="left" 
     alt="GitHub Stats" 

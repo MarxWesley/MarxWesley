@@ -129,20 +129,22 @@ Me chamo Wesley Marques, tenho 22 anos e sou natural do Rio Grande do Sul. Atual
 
 ### 📊 Estatísticas
 
-<p stile="display:flex">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MarxWesley&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=MarxWesley&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        height="200"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarxWesley&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+        height="200"
+        alt="Top Langs"
+      />
+    </td>
+  </tr>
+</table>
 
-<img 
-      align="right" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxwesley&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
-
-</p>

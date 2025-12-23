@@ -2,7 +2,7 @@
 
 **`Dev e QA`**
 
-Me chamo Wesley Marques, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informações na ESUCRI. Sou apaixonado por tecnologia.
+Me chamo Wesley Marques, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informações na ESUCRI. E trabalho na Edenred | Frete uma emprese de logística e transporte.
 
 <p align="left">
     <a href="https://github.com/MarxWesley?tab=followers">
